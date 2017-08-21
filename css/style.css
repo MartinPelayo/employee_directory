@@ -24,7 +24,6 @@ img {
   border-radius: 100px 100px 100px 100px;
   float: left;
   margin: 0 auto;
-  /*padding: 0;*/
   border: 0;
   padding: 10px;
 }
@@ -42,8 +41,6 @@ ul {
   margin-top: 7%;
   position: absolute;
   margin-left: 37%;
-  /*left: 0;*/
-  /*right: 0;*/
   background-color: #fafafa;
   width: 25%;
   height: 55%;
@@ -59,7 +56,7 @@ ul {
 .modal_window ul{
   display: block;
   margin-top: 50%;
-  margin-left: 15%;
+  margin-left: 17%;
   text-align: center;
   border: none;
   line-height: 1.5em;
@@ -70,5 +67,5 @@ ul {
   margin: 0 auto;
   position: absolute;
   top: 0px;
-  left: 27%
+  left: 28%
 }
